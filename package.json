@@ -1,6 +1,6 @@
 {
   "name": "veer-vue-slider",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Slider for VueJS 2",
   "main": "veer-vue-slider.js",
   "author": "Gary Williams <gary@lbm.co>",
