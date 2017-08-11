@@ -30,7 +30,7 @@
     "vanilla"
   ],
   "files": [
-    "src/components/Veer.vue",
+    "src/components/Veer.vue"
   ],
   "devDependencies": {
     "autoprefixer": "^7.1.2",
