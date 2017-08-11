@@ -1,6 +1,6 @@
 {
   "name": "veer-vue-slider",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Slider for VueJS 2",
   "author": "Gary Williams <gary@lbm.co>",
   "private": false,
@@ -17,16 +17,18 @@
     "vue": "^2.3.3"
   },
   "repository": {
-   "type": "git",
-   "url": "git+https://github.com/dolbex/veer-vue-slider"
- },
- "bugs": {
-   "url": "https://github.com/dolbex/veer-vue-slider/issues"
- },
- "homepage": "https://github.com/dolbex/veer-vue-slider#readme",
- "keywords": [
-   "vue", "slider", "vanilla"
- ],
+    "type": "git",
+    "url": "git+https://github.com/dolbex/veer-vue-slider"
+  },
+  "bugs": {
+    "url": "https://github.com/dolbex/veer-vue-slider/issues"
+  },
+  "homepage": "https://github.com/dolbex/veer-vue-slider#readme",
+  "keywords": [
+    "vue",
+    "slider",
+    "vanilla"
+  ],
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
