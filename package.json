@@ -2,7 +2,7 @@
   "name": "veer-vue-slider",
   "version": "1.1.6",
   "description": "Slider for VueJS 2",
-  "main": "veer-vue-slider.js",
+  "main": "veer-vue-slider.min.js",
   "author": "Gary Williams <gary@lbm.co>",
   "private": false,
   "license": "MIT",

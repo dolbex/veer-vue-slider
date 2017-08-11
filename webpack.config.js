@@ -2,14 +2,14 @@ var path = require('path')
 var webpack = require('webpack')
 
 module.exports = {
-  entry: './src/plugin.js',
+  entry: path.resolve(__dirname + '/src/plugin.js'),
   output: {
     path: path.resolve(__dirname, './'),
     publicPath: '/',
-    libraryTarget: 'umd',
+    libraryTarget: 'window',
     library: 'veer-vue-slider',
     umdNamedDefine: true,
-    filename: 'veer-vue-slider.js'
+    filename: 'veer-vue-slider.min.js'
   },
   module: {
     rules: [
