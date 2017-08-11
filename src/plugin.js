@@ -1,7 +1,3 @@
-import Veer from './components/Veer.vue';
+import Veer from './components/Veer';
 
-module.exports = {
-  install: function (Vue, options) {
-    Vue.component('veer', Veer);
-  }
-};
+export default Veer
