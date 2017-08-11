@@ -4,7 +4,34 @@
 
 Veer is a simple Vue Js (v2) slider that attempts to handle whatever you want to throw at it. Please let me know what scenarios throw this thing off so I can adjust.
 
+## Installation
+
+```
+yarn add veer-vue-slider
+```
+
+or
+
+```
+npm install --save-dev veer-vue-slider
+```
+
 ## Basic Usage
+
+In your javascript or component:
+
+```
+import Vue from 'vue'
+
+import Veer from './components/Veer'
+
+new Vue({
+  el: '#app',
+  components: { Veer }
+})
+```
+
+In your HTML or .vue template:
 
 ```
 <div id="app">
@@ -15,6 +42,8 @@ Veer is a simple Vue Js (v2) slider that attempts to handle whatever you want to
   </veer>
 </div>
 ```
+
+
 
 ## Options
 
